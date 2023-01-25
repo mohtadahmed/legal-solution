@@ -1,0 +1,17 @@
+/* Navigation Bar CSS Starts */
+.navbar-css li a {
+    color: #707070;
+}
+
+.css-btn {
+    background-color: #B68C5A;
+    color: #FFFFFF;
+}
+
+.css-btn:hover {
+    color: #FFFFFF;
+    /* background-color: #2d3436; */
+    background-color: #99764c;
+}
+
+/* Navigation Bar CSS Ends */
